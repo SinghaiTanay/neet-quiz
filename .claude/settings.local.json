@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /d)",
+      "Bash(rm -f \"d:\\\\[23] Project For Kavya\\\\backend\\\\models.py\")"
+    ]
+  }
+}
